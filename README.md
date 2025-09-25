@@ -223,4 +223,6 @@ For technical questions and also to share your experience with this modification
 use the issue tracking system of github. 
 
 If you really insist on donating money, please feel free to send any amount to my paypal account: 
-reinhard.grafl (at) aon.at
+complete this at another time.
+
+
